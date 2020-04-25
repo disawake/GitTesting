@@ -10,6 +10,7 @@
         <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="133,41,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" Margin="268,121,0,0" VerticalAlignment="Top" Width="75"/>
         <Label x:Name="label" Content="Label" HorizontalAlignment="Left" Margin="286,168,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="182,230,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
